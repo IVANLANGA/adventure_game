@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AdventureModel
+comment1.params=
+comment1.target=AdventureModel()
+comment2.params=
+comment2.target=Room\ getStartingRoom()
+comment3.params=
+comment3.target=java.util.ArrayList\ getRooms()
+numComments=4
